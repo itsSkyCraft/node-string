@@ -1,0 +1,22 @@
+{
+  "name": "node-string",
+  "version": "1.0.0",
+  "description": "A Node.js Package For String Utils and More",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsSkyCraft/node-string.git"
+  },
+  "keywords": [
+    "String"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsSkyCraft/node-string/issues"
+  },
+  "homepage": "https://github.com/itsSkyCraft/node-string#readme"
+}
